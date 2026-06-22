@@ -3478,10 +3478,452 @@
      ]
     }
    ]
+  },
+  {
+   "topic": "📄 Прошлый экзамен (реальный, 25 вопросов)",
+   "mcq": [
+    {
+     "id": "EX-01",
+     "concept": "drivers: strategic imperatives",
+     "type": "single",
+     "question": "Which driver(s) motivate(s) globalization of markets and production?",
+     "options": [
+      "Availability of resources and supplies outside national borders",
+      "Decline in cross-border trade barriers",
+      "Decline in cross-border investment barriers",
+      "Technological advancement"
+     ],
+     "correct": [
+      0
+     ],
+     "explanation": "Верно (A): доступ к ресурсам/поставкам за рубежом — это стратегический императив (strategic imperative), который МОТИВИРУЕТ глобализацию. B, C, D — изменения среды (environmental changes), которые её ОБЛЕГЧАЮТ, а не мотивируют. Ловушка на различии «мотивируют vs облегчают».",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-02",
+     "concept": "world is flat vs CAGE",
+     "type": "multi",
+     "question": "Which factor(s) support(s) the \"Distance Still Matters\" perspective?",
+     "options": [
+      "Global labor mobility and cross-border employment",
+      "Cultural differences and distinctive local market demands",
+      "Standardization of global products and services",
+      "High transportation costs associated with long-distance shipping"
+     ],
+     "correct": [
+      1,
+      3
+     ],
+     "explanation": "Верно (B, D): «Distance Still Matters» (Ghemawat, CAGE) утверждает, что различия между странами реальны. B — культурная дистанция и локальные различия спроса; D — географическая дистанция (высокие транспортные издержки). A и C поддерживают противоположный взгляд «мир плоский» (flat world).",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-03",
+     "concept": "traditional vs neo-internationalization",
+     "type": "single",
+     "question": "An automobile company has been operating a profitable plant abroad for several years. After generating earnings, it wants to transfer a portion of profits back to its home-country headquarters. How is this process called?",
+     "options": [
+      "Reshoring",
+      "Expatriation",
+      "Nationalization",
+      "Repatriation"
+     ],
+     "correct": [
+      3
+     ],
+     "explanation": "Верно (D): репатриация (repatriation) — возврат средств/прибыли в домашнюю страну. Reshoring — возврат производства; Expatriation — отправка сотрудника за рубеж; Nationalization — переход активов под госконтроль.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-04",
+     "concept": "mercantilism / neomercantilism",
+     "type": "single",
+     "question": "Theories of international trade useful in understanding inter-industry trade of undifferentiated goods are referred to as:",
+     "options": [
+      "Modern trade theories",
+      "Classical trade theories",
+      "Institutional trade theories"
+     ],
+     "correct": [
+      1
+     ],
+     "explanation": "Верно (B): классические страновые теории (classical country-based theories) объясняют межотраслевую торговлю (inter-industry trade) стандартизированными недифференцированными товарами. Современные (modern firm-based) объясняют внутриотраслевую торговлю дифференцированными товарами.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-05",
+     "concept": "regional integration: 5 levels",
+     "type": "multi",
+     "question": "What are the features of a customs union?",
+     "options": [
+      "Integration of political and economic affairs",
+      "Free movement of goods, people and capital",
+      "Removal of intragroup tariffs",
+      "Common economic policies",
+      "Common external tariff"
+     ],
+     "correct": [
+      2,
+      4
+     ],
+     "explanation": "Верно (C, E): таможенный союз (customs union) = зона свободной торговли (отмена внутренних тарифов, C) + единый внешний тариф (common external tariff, E). Свободное движение людей/капитала (B) — это общий рынок; общие эконом. политики (D) — экономический союз; полит. интеграция (A) — политический союз.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-06",
+     "concept": "Hofstede: power distance",
+     "type": "multi",
+     "question": "According to Hofstede's framework, flexible hierarchies and simple procedures are influenced by a culture characterized by:",
+     "options": [
+      "High power distance",
+      "Low power distance",
+      "High uncertainty avoidance",
+      "Low uncertainty avoidance"
+     ],
+     "correct": [
+      1,
+      3
+     ],
+     "explanation": "Верно (B, D): гибкие иерархии → низкая дистанция власти (low power distance); простые процедуры (мало жёстких правил) → низкое избегание неопределённости (low uncertainty avoidance).",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-07",
+     "concept": "internalization theory (transaction costs)",
+     "type": "single",
+     "question": "According to internalization theory, a company should enter a foreign market via FDI when transaction costs are:",
+     "options": [
+      "High",
+      "Low",
+      "Transaction costs do not affect this decision"
+     ],
+     "correct": [
+      0
+     ],
+     "explanation": "Верно (A): при ВЫСОКИХ транзакционных издержках (transaction costs) выгодно интернализировать операции → FDI. При низких — дешевле контракты (экспорт, лицензирование, франчайзинг).",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-08",
+     "concept": "high vs low context (Hall)",
+     "type": "single",
+     "question": "German executives prefer direct, explicit discussions with clear yes/no answers, while Japanese partners communicate indirectly, relying on nonverbal cues and 'reading between the lines'. Which concept best explains this?",
+     "options": [
+      "Individualism vs. collectivism",
+      "High-context vs. low-context cultures",
+      "High-power vs. low-power distance",
+      "Masculinity vs. femininity",
+      "Uncertainty avoidance vs. uncertainty acceptance"
+     ],
+     "correct": [
+      1
+     ],
+     "explanation": "Верно (B): прямая явная коммуникация (Германия) = низкоконтекстная культура (low-context); косвенная, через невербалику и подразумеваемое (Япония) = высококонтекстная (high-context) — рамка Холла (Hall).",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-09",
+     "concept": "home replication strategy",
+     "type": "single",
+     "question": "A luxury Swiss watch brand expands internationally selling hand-made products, relying on strong brand reputation and a standardized marketing approach worldwide. Which IB strategy is it following?",
+     "options": [
+      "Transnational strategy",
+      "Localization strategy",
+      "Home replication strategy",
+      "Global standardization strategy"
+     ],
+     "correct": [
+      2
+     ],
+     "explanation": "Верно (C): репликация домашней модели (home replication) — «что работает дома, сработает за рубежом», минимум локальной адаптации, опора на домашние компетенции и бренд (классический пример — Rolex). Низкое давление и на издержки, и на локальную адаптацию.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-10",
+     "concept": "AAA: aggregation",
+     "type": "single",
+     "question": "According to Ghemawat's AAA model, companies seeking to maximize their economies of scale adopt the strategy of:",
+     "options": [
+      "Adaptation",
+      "Aggregation",
+      "Arbitrage",
+      "Augmentation"
+     ],
+     "correct": [
+      1
+     ],
+     "explanation": "Верно (B): агрегирование (Aggregation) — группировка стран/рынков ради экономии на масштабе и охвате (economies of scale and scope). Adaptation — локальная адаптация; Arbitrage — использование различий; Augmentation — не входит в модель AAA (ловушка).",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-11",
+     "concept": "worldwide area division -> localization",
+     "type": "multi",
+     "question": "An MNC operates in several countries and lets regional managers decide on product offerings, pricing and marketing based on local preferences. Which best fits this organizational structure?",
+     "options": [
+      "Decentralization",
+      "Centralization",
+      "Worldwide product division",
+      "Worldwide area division"
+     ],
+     "correct": [
+      0,
+      3
+     ],
+     "explanation": "Верно (A, D): передача решений региональным менеджерам = децентрализация (decentralization, вертикальная дифференциация); деление по регионам с локальной автономией = всемирная региональная структура (worldwide area division), которая соответствует стратегии локализации. Centralization и worldwide product division — противоположный, продуктово-централизованный полюс.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-12",
+     "concept": "interdependence -> performance ambiguity -> cost of control",
+     "type": "single",
+     "question": "Higher interdependence between the subunits within the organizational structure leads to:",
+     "options": [
+      "Higher costs of control",
+      "Lower costs of control",
+      "It has no effect on the costs of control"
+     ],
+     "correct": [
+      0
+     ],
+     "explanation": "Верно (A): рост взаимозависимости (interdependence) → выше неоднозначность оценки результата (performance ambiguity) → выше стоимость контроля (cost of control). Это цепочка нарастания управленческой сложности к транснациональной стратегии.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-13",
+     "concept": "international franchising vs licensing",
+     "type": "multi",
+     "question": "If a company has a location advantage but does NOT have an internalization advantage in the foreign country, it should enter the market via:",
+     "options": [
+      "Foreign direct investment",
+      "Exporting",
+      "International franchising",
+      "International licensing"
+     ],
+     "correct": [
+      2,
+      3
+     ],
+     "explanation": "Верно (C, D): по дереву OLI есть O и L, но нет I (контроль не критичен) → лицензирование/франчайзинг. FDI требует преимущества интернализации; экспорт уместен при отсутствии преимущества локации (а оно как раз есть).",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-14",
+     "concept": "mercantilism / neomercantilism",
+     "type": "single",
+     "question": "Which statement aligns with the principles of Mercantilism?",
+     "options": [
+      "Governments should promote free trade and minimize intervention in the economy.",
+      "Exports should be maximized, while imports should be minimized to increase national wealth.",
+      "Governments need to ensure the balance between exports and imports."
+     ],
+     "correct": [
+      1
+     ],
+     "explanation": "Верно (B): меркантилизм (mercantilism) — наращивать богатство страны, максимизируя экспорт и ограничивая импорт (через субсидии экспортёрам и тарифы). A — свободная торговля (противоположность); C — про баланс, не про суть меркантилизма.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-15",
+     "concept": "nationalization (expropriation/confiscation)",
+     "type": "multi",
+     "question": "A foreign government takes control of a multinational company's assets. This may be called:",
+     "options": [
+      "Expropriation",
+      "Privatization",
+      "Confiscation"
+     ],
+     "correct": [
+      0,
+      2
+     ],
+     "explanation": "Верно (A, C): национализация (переход частных активов под госконтроль) принимает форму экспроприации (expropriation, с компенсацией) или конфискации (confiscation, без компенсации). Приватизация (B) — обратный процесс.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-16",
+     "concept": "Global Innovation Index",
+     "type": "multi",
+     "question": "What can we learn from the Global Innovation Index (GII)?",
+     "options": [
+      "GII ranks countries by their ability to attract foreign direct investment.",
+      "GII evaluates countries' capacity to produce and implement new technologies.",
+      "GII evaluates countries' institutional and business environments.",
+      "GII shows the political risk level in each country."
+     ],
+     "correct": [
+      1,
+      2
+     ],
+     "explanation": "Верно (B, C): GII (Global Innovation Index) оценивает инновационный потенциал — способность создавать и внедрять технологии (B) и качество институциональной и деловой среды (C, входы индекса). A (привлечение FDI) и D (политический риск) — не про GII.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-17",
+     "concept": "formal institutions and functions",
+     "type": "multi",
+     "question": "Which characteristics describe formal institutions?",
+     "options": [
+      "They are enforced through legal systems.",
+      "They are often considered products of national culture.",
+      "They are mainly enforced through social pressure.",
+      "They refer to government regulations, laws, contracts, and international treaties."
+     ],
+     "correct": [
+      0,
+      3
+     ],
+     "explanation": "Верно (A, D): формальные институты (formal institutions) — это законы, регламенты, контракты, международные договоры (D), обеспечиваемые правовой системой (A). Принуждение через социальное давление (C) и «продукт культуры» (B) описывают неформальные институты.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-18",
+     "concept": "3 sources of competitiveness and trade-off",
+     "type": "multi",
+     "question": "Global efficiencies are a key source of international competitiveness. What do they refer to?",
+     "options": [
+      "Location economies",
+      "Economies of scale",
+      "Economies of scope",
+      "Knowledge transfer among subsidiaries"
+     ],
+     "correct": [
+      0,
+      1,
+      2
+     ],
+     "explanation": "Верно (A, B, C): глобальная эффективность (global efficiencies) = экономия от размещения (location economies) + эффект масштаба (economies of scale) + эффект охвата (economies of scope). Передача знаний между подразделениями (D) — это worldwide learning, другой источник конкурентоспособности.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-19",
+     "concept": "Dunning OLI",
+     "type": "single",
+     "question": "The OLI framework is based on:",
+     "options": [
+      "Vernon's product life-cycle theory",
+      "Porter's theory of national competitive advantage",
+      "Dunning's eclectic theory"
+     ],
+     "correct": [
+      2
+     ],
+     "explanation": "Верно (C): OLI (Ownership–Location–Internalization) — это эклектическая теория Даннинга (Dunning's eclectic theory). Вернон — жизненный цикл продукта; Портер — национальное конкурентное преимущество.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-20",
+     "concept": "staffing: ethnocentric/polycentric/geocentric",
+     "type": "multi",
+     "question": "Which statements describe an ethnocentric staffing approach?",
+     "options": [
+      "All key management positions are filled by home-country nationals — both at HQ and foreign subsidiaries.",
+      "It fosters strong career advancement for host-country nationals.",
+      "It helps transfer core competencies from headquarters to foreign subsidiaries.",
+      "Host-country nationals are hired to manage subsidiaries, as they know the market.",
+      "It minimizes resentment among host-country employees."
+     ],
+     "correct": [
+      0,
+      2
+     ],
+     "explanation": "Верно (A, C): этноцентрический подход — ключевые посты везде занимают граждане страны происхождения (A), что помогает переносить ключевые компетенции из HQ в дочки (C). B, D, E описывают полицентрический подход (местные кадры, их рост, меньше недовольства).",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-21",
+     "concept": "staffing approach mapped to strategy",
+     "type": "multi",
+     "question": "Which R&D models correctly fit the indicated IB strategies?",
+     "options": [
+      "Ethnocentric centralized R&D → Home replication",
+      "Polycentric decentralized R&D → Localization",
+      "Geocentric centralized R&D → Transnational"
+     ],
+     "correct": [
+      0,
+      1
+     ],
+     "explanation": "Верно (A, B): этноцентрическая централизованная R&D ↔ home replication; полицентрическая децентрализованная ↔ localization. C неверно: геоцентрическая централизованная R&D соответствует global standardization, а transnational — интегрированной R&D-сети (integrated R&D network).",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-22",
+     "concept": "R&D org models 2x2",
+     "type": "multi",
+     "question": "Which factors are important for the location of R&D?",
+     "options": [
+      "Knowledge intensity (specialized talent and clusters).",
+      "Market proximity (local customer needs and regulations).",
+      "Protection and control (IP risks, data rules, enforcement).",
+      "Coordination cost (time zones, language, project complexity)."
+     ],
+     "correct": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "explanation": "Верно (A, B, C, D): все четыре — критерии размещения R&D: интенсивность знаний, близость к рынку, защита и контроль (IP), издержки координации.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-23",
+     "concept": "standardization vs customization spectrum",
+     "type": "multi",
+     "question": "Which statements about standardization of global marketing are correct?",
+     "options": [
+      "Standardization is always superior because it guarantees a single global customer experience.",
+      "Standardization can lower marketing costs and support a consistent global brand identity.",
+      "Standardization does not mean local adjustments are not allowed; degrees of standardization may vary."
+     ],
+     "correct": [
+      1,
+      2
+     ],
+     "explanation": "Верно (B, C): стандартизация снижает издержки и поддерживает единый бренд (B), но допускает локальные настройки — степень стандартизации варьируется (C). A — ловушка: «always superior» неверно, единый подход не всегда оптимален.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-24",
+     "concept": "production: concentration vs decentralization",
+     "type": "multi",
+     "question": "Which rules about locating production are valid?",
+     "options": [
+      "If fixed costs of setting up a plant are high, production is more likely to be concentrated in one/few locations.",
+      "If minimum efficient scale is high relative to global demand, production tends to be concentrated.",
+      "If a product serves universal needs, firms tend to decentralize production."
+     ],
+     "correct": [
+      0,
+      1
+     ],
+     "explanation": "Верно (A, B): высокие постоянные издержки (fixed costs) и высокий минимальный эффективный масштаб (minimum efficient scale) относительно мирового спроса → концентрация производства. C — ловушка: универсальные потребности (universal needs) ведут к КОНЦЕНТРАЦИИ, а не к децентрализации.",
+     "difficulty": "medium"
+    },
+    {
+     "id": "EX-25",
+     "concept": "value-to-weight ratio / universal needs",
+     "type": "multi",
+     "question": "A product's value-to-weight ratio affects global operations. Which statements are correct?",
+     "options": [
+      "Low value-to-weight products often require production closer to host markets to limit shipping costs.",
+      "High value-to-weight products always require local production in every country.",
+      "High value-to-weight products are easier to ship, making centralized production more viable."
+     ],
+     "correct": [
+      0,
+      2
+     ],
+     "explanation": "Верно (A, C): низкое отношение стоимость/вес (тяжёлое и дешёвое) → дорого возить → производить ближе к рынкам (A). Высокое отношение (лёгкое и дорогое) → дёшево возить → выгодна концентрация (C). B — ловушка: «always... in every country» неверно.",
+     "difficulty": "medium"
+    }
+   ],
+   "open": []
   }
  ],
  "totals": {
-  "mcq": 170,
+  "mcq": 195,
   "open": 20
  }
 }
