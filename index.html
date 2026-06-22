@@ -177,7 +177,7 @@ function mcqHTML(q,idx,state){
     return `<label class="${cls}">${inp}<span class="lab">${LET[i]}</span><span>${esc(o)}</span></label>`;
   }).join('');
   const fb=state.graded?feedbackHTML(q,state):'';
-  const expl=state.graded?`<div class="expl show"><b>Разбор.</b> ${esc(q.explanation)}</div>`:'';
+  const expl=state.graded?`<div class="expl show"><div style="margin-bottom:7px;color:var(--accent);font-weight:700;font-size:12.5px">🏷 Тема: ${esc(q.concept||'—')} · ${esc((LTITLE[q._lec]||'').split('·')[0].trim())}</div><b>Разбор.</b> ${esc(q.explanation)}</div>`:'';
   return `<div class="q" id="q${idx}">
     <div class="meta"><span class="qnum">${idx+1}. <span style="color:var(--muted);font-weight:400">${LTITLE[q._lec]?.split('·')[0]||''}· ${esc(q.concept||'')}</span></span>
       <span class="pill ${q.type}">${q.type==='multi'?'выбери все верные':'один ответ'}</span></div>
